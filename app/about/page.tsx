@@ -78,7 +78,7 @@ export default function AboutPage() {
             {/* Smaller Premium Buttons */}
             <div className="flex flex-wrap gap-4">
               <a
-                href="https://wa.me/923287332655"
+                href="https://wa.me/923153579751"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-5 py-2.5 text-sm bg-[#B1D732] text-white font-medium rounded-full shadow-md hover:shadow-lg hover:scale-105 transition"
@@ -139,7 +139,7 @@ export default function AboutPage() {
         {/* Content */}
         <div className="flex items-center z-10 text-sm">
           <a
-            href="https://wa.me/923287332655"
+            href="https://wa.me/923153579751"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -160,12 +160,12 @@ export default function AboutPage() {
           </a>
 
           <a
-            href="https://wa.me/923287332655"
+            href="https://wa.me/923153579751"
             target="_blank"
             rel="noopener noreferrer"
           >
             <p className="text-md flex items-center z-10 text-sm px-4 py-1 rounded-full bg-[#B1D732] text-black font-semibold inline-flex items-center font-semibold text-gray-900">
-              (+92) 328 7332655
+              (+92) 315 3579751
             </p>
           </a>
         </div>
