@@ -29,14 +29,14 @@ export default function HeroSection() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="https://wa.me/923153579751"
+              href="https://wa.me/923128004651"
               className="px-6 py-3 rounded-full bg-[#B1D732] text-white font-semibold shadow-lg hover:scale-105 hover:bg-[#839e28] transition transform"
             >
               Contact With Me
               <FaWhatsapp size={25} className="inline-block ml-2" />
             </a>
             <a
-              href="tel:+923153579751"
+              href="tel:+923128004651"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-full border border-[#B1D732] text-[#B1D732] font-semibold hover:scale-105 hover:bg-[#839e28] hover:text-white transition transform"

@@ -67,7 +67,7 @@ export default function ProductsPage() {
           </div>
 
           <a
-            href="https://wa.me/923153579751"
+            href="https://wa.me/923128004651"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-6 py-2.5 text-sm bg-[#B1D732] text-white rounded-full shadow hover:scale-105 transition"
