@@ -115,7 +115,7 @@ export default function ShippingPolicy() {
             </h2>
             <p>For any shipping-related inquiries, please contact us:</p>
             <p className="mt-2 font-medium text-[#B1D732]">
-              📞 +92 315 4232561 <br />
+              📞 +92 312 8004651<br />
               📍 Lahore, Pakistan
             </p>
           </div>
